@@ -1,11 +1,13 @@
-[<img src="https://raw.githubusercontent.com/FirebaseExtended/flutterfire/master/resources/flutter_favorite.png" width="200" />](https://flutter.dev/docs/development/packages-and-plugins/favorites)
-
-# Firebase Auth for Flutter
+# Firebase Auth Mono Repo for seskit
 [![pub package](https://img.shields.io/pub/v/firebase_auth.svg)](https://pub.dev/packages/firebase_auth)
 
 A Flutter plugin to use the [Firebase Authentication API](https://firebase.google.com/products/auth/).
 
 To learn more about Firebase Auth, please visit the [Firebase website](https://firebase.google.com/products/auth)
+
+## About Plugin
+
+This plugin for seskit mobile app.
 
 ## Getting Started
 
@@ -24,3 +26,4 @@ Plugin issues that are not specific to Flutterfire can be filed in the [Flutter 
 To contribute a change to this plugin,
 please review our [contribution guide](https://github.com/FirebaseExtended/flutterfire/blob/master/CONTRIBUTING.md)
 and open a [pull request](https://github.com/FirebaseExtended/flutterfire/pulls).
+
